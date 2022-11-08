@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\bin\Debug\net6.0\BeautifulCode.exe
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\bin\Debug\net6.0\BeautifulCode.deps.json
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\bin\Debug\net6.0\BeautifulCode.runtimeconfig.json
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\bin\Debug\net6.0\BeautifulCode.dll
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\bin\Debug\net6.0\BeautifulCode.pdb
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.dll
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\refint\BeautifulCode.dll
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.pdb
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\BeautifulCode.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\LessenC#6\BeautifulCode\obj\Debug\net6.0\ref\BeautifulCode.dll
